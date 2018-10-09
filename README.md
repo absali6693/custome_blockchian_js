@@ -1,13 +1,13 @@
-##Custome Blockchain in Javascript
+## Custome Blockchain in Javascript
 
-###Features
+### Features
 
 - Supports block creation.
 - Supports transactions.
 - Supports mining of blocks.
 - Supports mining reward for miners.
 
-###How to run?
+### How to run?
 
 #### Steps to run the chain.
 ###### Clone this git repository.
